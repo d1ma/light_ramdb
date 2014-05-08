@@ -1,5 +1,5 @@
 ### Overview
-It's annoying in python scripts to load data, weight a long time, then to realize that you have an error somewhere after the data has been loaded. This makes debugging super annoying.
+It's annoying in python scripts to load data, wait a long time, then to realize that you have an error somewhere after the data has been loaded. This makes debugging super annoying.
 
 To fight this, I give you basic ram db. Load the database in a separate process and then use the client object to access it like a normal dictionary.
 
