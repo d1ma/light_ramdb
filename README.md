@@ -7,7 +7,7 @@ Any improvements in making it multithreaded would be super appreciated.
 
 ### Sample run
 #####Terminal window 1:
-        python2.7 ramDB_s.py test_tab_separated.py
+        python2.7 ramDB_s.py test_tab_separated.tsv
 
 #####Terminal window 2:
         ipython
